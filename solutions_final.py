@@ -214,7 +214,8 @@ highest_run = {
         }
 
 # taking an average of 100 runs
-for m in range(10):
+for m in range(10): # change to 100
+# for m in range(100):
     
     intruder_detected = 0
     flight_path_coordinates = []
